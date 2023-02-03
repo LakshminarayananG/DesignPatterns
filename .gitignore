@@ -3,3 +3,10 @@ designpatternsprac/.idea/compiler.xml
 designpatternsprac/.idea/jarRepositories.xml
 designpatternsprac/.idea/misc.xml
 designpatternsprac/.idea/vcs.xml
+.idea/workspace.xml
+*.class
+designpatternsprac/.settings/org.eclipse.m2e.core.prefs
+designpatternsprac/.settings/org.eclipse.jdt.core.prefs
+designpatternsprac/.project
+designpatternsprac/.classpath
+designpatternsprac/test-output/*
